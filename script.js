@@ -50,6 +50,12 @@ var catArray = [{"Teddy", "Black", 3}]
 // question 8
 
 // Answer for question 8
+for (var i = 0; i < catArray.length; i++) {
+    console.log(catArray[i]);
+}
+
+//OR
+
 for (var i=o; i<catArray.length; i++){
     console.log(catArray[0].name);
     console.log(catArray[1].color);
