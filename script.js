@@ -7,13 +7,13 @@ var petArray ["cat", "cow", "dog"];
 // question 2
 
 // Answer for question 2 
-petArray [1] 
+console.log(petArray[1]); 
 
 // question 3
 
 // Answer for question 3
-var petArray = ["cat", "cow", "dog"];
 petArray.push("sheep");
+
 // question 4
 
 // Answer for question 4
